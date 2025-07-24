@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 0)
-  (lib (name "esp32_master_board-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/esp32_master_board-eagle-import.kicad_sym")(options "")(descr ""))
-)
